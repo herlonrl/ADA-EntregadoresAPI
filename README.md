@@ -6,8 +6,8 @@
 [![author](https://img.shields.io/badge/author-lauradefaria-black.svg)](https://github.com/suellensr)
 
 # EntregadoresAPI
-O projeto tem como objetivo fazer uma API para cadastrar e visualizar dados de entregadores de comida. Desenvolvido na aula do módulo "Programação Web II" do curso DiverseDEV organizado pelas instituições: ADA Tech e Mercado Eletrônico. <br/>
-Grupo: Vitória Lira, Laura de Faria, Jonas Junior, Ângela Rocha, Herlon Ludwig e Suellen Reis. <br/>
+O projeto tem como objetivo **fazer uma API para cadastrar e visualizar dados de entregadores de comida**. Desenvolvido na aula do módulo **"Programação Web II"** do curso DiverseDEV organizado pelas instituições: ADA Tech e Mercado Eletrônico. <br/><br/>
+**Grupo**: Vitória Lira, Laura de Faria, Jonas Junior, Ângela Rocha, Herlon Ludwig e Suellen Reis. <br/>
 
 ---
 
