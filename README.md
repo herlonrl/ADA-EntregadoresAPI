@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 
-- Vitoria 
+- Vitória 
 - Jonas
 - Angela
 - Suellen
